@@ -58,3 +58,7 @@ It requires host access to GIS tools such as R/terra or GDAL. It contains workfl
 ## License
 
 MIT License，Copyright (c) 2026 dear-winter。见 [LICENSE](LICENSE)。
+
+## 致谢
+
+本技能的整理与文档编写由 ChatGPT 辅助完成，维护者为 dear-winter。

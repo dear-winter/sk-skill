@@ -28,3 +28,7 @@
 
 [MIT License](LICENSE)，Copyright (c) 2026 dear-winter。
 每个技能目录也保留LICENSE，便于独立分发。
+
+## 致谢
+
+本仓库的技能整理与文档编写由 ChatGPT 辅助完成，维护者为 dear-winter。
