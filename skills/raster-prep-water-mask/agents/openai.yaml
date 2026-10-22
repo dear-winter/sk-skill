@@ -1,0 +1,4 @@
+interface:
+  display_name: "栅格整理与去水域"
+  short_description: "统一栅格网格、研究区与分区掩膜、水域剔除，并核验几何、缺值及保留数值"
+  default_prompt: "使用 $raster-prep-water-mask 整理这批栅格，按参考网格和指定掩膜去水域，并输出检查结果。"
